@@ -1,6 +1,6 @@
 # Spring Webflux essentials
 various reactive utility for spring webflux that took too long to google and get to work<br />
-basically - samples of basic web technologies <br /> 
+basically - samples of basic web technologies that are obnoxious to find because gerb docs and deprecation<br /> 
 Code is written in Kotlin (Decompile in Intellij if you use Java)
 
 
