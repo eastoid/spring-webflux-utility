@@ -67,7 +67,7 @@ class WebfluxFilter : WebFilter {
         }
 
 
-/*																												<== Process request from CloudFlare  						/*
+/*																												<== Process request from CloudFlare  						*/
 
 
         // Continue filter chain
