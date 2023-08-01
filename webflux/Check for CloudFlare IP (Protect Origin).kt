@@ -12,7 +12,7 @@
 
 
 // --> This configuration (for now) is blocking <--
-
+To do: cache val, nonblocking code (👺)
 
 
 @Component
