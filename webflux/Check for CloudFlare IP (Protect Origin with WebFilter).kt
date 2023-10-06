@@ -12,6 +12,10 @@
  		A maybe slightly better version of the filter that may or may not be reactive
 		  but a working filter regardless
 
+
+
+    TODO: Optimize
+
 */
 
 
