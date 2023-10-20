@@ -25,6 +25,8 @@ import java.time.Duration
 	https://bucket4j.com
 	https://github.com/bucket4j/bucket4j
 	
+
+- Will optimize and make less stupid silly code
 	
 */
 
