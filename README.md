@@ -5,6 +5,7 @@ basically - samples of basic web technologies that are obnoxious to find because
 <br />
 
 ## Working on da:<br />
+ - Must optimize WebFilter when using coroutines<br />
  - Reformatted R2 function  +  More R2 methods<br />
  - WEBP / AVIF stuff<br />
  - Refactored everything else<br />
