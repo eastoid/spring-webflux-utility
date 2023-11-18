@@ -4,6 +4,15 @@ JS and Spring Boot implementations
 
 ---
 
+This file currently contains: 
+- Creating client connection
+- Encoding metadata on client
+- Sending Request-Response from client
+
+Eventually will be split into multiple files as all interaction models are added from client and server (+ auth)
+
+---
+
 ### Libraries
 Client:
 - buffer
