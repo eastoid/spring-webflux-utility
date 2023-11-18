@@ -11,9 +11,12 @@ Client:
 - rsocket-core
 Buffer must be assigned for use in browser environment
 <br>
+
 Server (Webflux):
 
 - org.springframework.boot:spring-boot-starter-rsocket
+
+<br> 
 
 Can also include RSocket security integration
 <br><br>
@@ -73,15 +76,32 @@ function encodeRoutingMetadata(route: string): Uint8Array {
 ### Sending Request-Response message from client
 
 ```javascript
-rsocket.requestResponse(
-{
-  data: Buffer.from('My message'),
-  metadata: Buffer.from 
-},
-{
-}
+rsocket.requestResponse({
+        data: Buffer.from('My message'),
+        metadata: Buffer.from(encodeRoutingMetadata("some.route"))
+    }, {
+        onNext: (payload: any) => { const text = payload.data.toString() }
+    }
+);    
+``` 
 
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
