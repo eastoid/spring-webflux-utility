@@ -20,4 +20,4 @@ References: <br/>
 Will do more:
 - The first ever actual explanation of the way Spring Security is utilized in an actual application
 - Reactive Spring beans
-
+- 50% chance i bother with spring security for rsocket in the year 2024
