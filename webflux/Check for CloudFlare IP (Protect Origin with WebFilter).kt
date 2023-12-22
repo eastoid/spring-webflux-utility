@@ -15,6 +15,7 @@
 
 
     TODO: Optimize
+    TODO TODO: This method literally breaks the chain why tf did i upload it
 
 */
 
