@@ -15,9 +15,3 @@ References: <br/>
 [RSocket](http://rsocket.io) - Reactive protocol over WebSocket / TCP, supporting preset interaction models and backpressure <br/>
 	Up-to-date example code in RSocket folder. Examples from official docs are nonexistent
 
----
-
-Will do more:
-- The first ever actual explanation of the way Spring Security is utilized in an actual application
-- Reactive Spring beans
-- 50% chance i bother with spring security for rsocket in the year 2024
